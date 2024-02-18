@@ -64,19 +64,6 @@ a{
   top:20px;
   text-decoration:none
 }
-.menu:after{
-  content:"";
-  display:block;
-  width:20px;
-  height:3px;
-  background:#fff;
-  position:absolute;
-  margin:0 auto;
-  top:5px;
-  left:0;
-  right:0;
-  box-shadow:0 8px, 0 16px
-}
 .logo{
   border:2px solid #fff;
   border-radius:3px;
