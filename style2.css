@@ -43,37 +43,6 @@ body {
   float: right;
 }
 
-#y {
-  background: #03d544;
-  width: 12px;
-  height: 12px;
-  border-radius: 100%;
-  display: inline-block;
-  margin: 0 2px;
-  cursor: pointer;
-}
-
-#s {
-  background: #ffbe03;
-  width: 12px;
-  height: 12px;
-  border-radius: 100%;
-  display: inline-block;
-  margin: 0 2px;
-  cursor: pointer;
-}
-
-#k {
-  background: #ff4545;
-  width: 12px;
-  height: 12px;
-  border-radius: 100%;
-  display: inline-block;
-  margin: 0 2px;
-  cursor: pointer;
-}
-/* Orta Kısım */
-
 #no {
   width: 41px;
   background: #263238;
@@ -92,7 +61,7 @@ body {
   color: #cdd3de;
   display: inline-block;
   padding: 7px 10px;
-  width: calc(106% - 41px);
+  width: calc(100% - 41px);
 }
 
 .yorum {
